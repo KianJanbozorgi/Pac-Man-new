@@ -7,7 +7,7 @@ from walls_configuration import wallss
 from lines_configuration import lines
 import image
 import random
-
+# git test
 
 pygame.init()
 n = 12
